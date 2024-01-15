@@ -4,7 +4,7 @@ Run Steps
 2. import folder with VSCode
 3. Open terminal And run "npm i"
 4. run "npm run docs:dev" in terminal
-5. You will see the static website
+5. You will see the static website on localhost
 
 要讓它出現多語系主要要注意幾個地方：
 1. .vitepress/config/index.ts 裡面必須包含 locals Object
